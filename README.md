@@ -1,8 +1,8 @@
-\#  Last-Mile Delivery Performance Analytics Dashboard
+#  Last-Mile Delivery Performance Analytics Dashboard
 
 
 
-\##  Project Overview
+##  Project Overview
 
 
 
@@ -20,93 +20,93 @@ The goal of this project is to identify performance gaps, failure trends, and op
 
 
 
-\##  Business Objectives
+##  Business Objectives
 
 
 
-\- Monitor overall delivery performance  
+- Monitor overall delivery performance  
 
-\- Analyze success vs failure rates  
+- Analyze success vs failure rates  
 
-\- Evaluate rider performance  
+- Evaluate rider performance  
 
-\- Identify low-performing hubs  
+- Identify low-performing hubs  
 
-\- Track monthly failure trends  
+- Track monthly failure trends  
 
-\- Support data-driven operational decisions  
-
-
-
-
-
-\##  Key KPIs Tracked
-
-
-
-\-  Total Orders  
-
-\-  Failed Orders  
-
-\-  Delivered Orders  
-
-\-  Success Rate (%)  
-
-\-  Monthly Failure Rate  
-
-\-  Hub Performance  
-
-\-  Rider Performance  
+- Support data-driven operational decisions  
 
 
 
 
 
-\##  Dashboard Features
+##  Key KPIs Tracked
 
 
 
-\###  KPI Band
+-  Total Orders  
 
-\- Total Orders
+-  Failed Orders  
 
-\- Failed Orders
+-  Delivered Orders  
 
-\- Delivered Orders
+-  Success Rate (%)  
 
-\- Success Rate %
+-  Monthly Failure Rate  
 
+-  Hub Performance  
 
-
-\###  Performance Insights
-
-\- Impact of Rider Experience on Success Rate
-
-\- Success Rate Across Hubs (Geographical Map)
-
-\- Monthly Failure Rate Trend
+-  Rider Performance  
 
 
 
-\###  Rider Analysis
 
-\- Top Performing Riders
 
-\- Lowest Performing Riders
-
-\- Rider Performance Summary Table
+##  Dashboard Features
 
 
 
-\###  Interactive Filters
+###  KPI Band
 
-\- Experience Range
+- Total Orders
 
-\- Vehicle Category
+- Failed Orders
 
-\- City
+- Delivered Orders
 
-\- Hub
+- Success Rate %
+
+
+
+###  Performance Insights
+
+- Impact of Rider Experience on Success Rate
+
+- Success Rate Across Hubs (Geographical Map)
+
+- Monthly Failure Rate Trend
+
+
+
+###  Rider Analysis
+
+- Top Performing Riders
+
+- Lowest Performing Riders
+
+- Rider Performance Summary Table
+
+
+
+###  Interactive Filters
+
+- Experience Range
+
+- Vehicle Category
+
+- City
+
+- Hub
 
 
 
@@ -116,69 +116,69 @@ All visuals are interconnected for dynamic filtering and drill-down analysis.
 
 
 
-\##  Tools \& Technologies Used
+##  Tools \& Technologies Used
 
 
 
-\- Power BI      (Dashboard Development) 
+- Power BI      (Dashboard Development) 
 
-\- SQL           (Data Analysis)
+- SQL           (Data Analysis)
 
-\- Python        (Dataset Generation \& Preprocessing)
+- Python        (Dataset Generation \& Preprocessing)
 
-\- CSV           (Data Source)
-
-
-
-
-
-\##  Dataset Files
-
-
-
-\- orders.csv  
-
-\- riders.csv  
-
-\- hubs.csv  
-
-\- customers.csv  
-
-\- weather.csv  
+- CSV           (Data Source)
 
 
 
 
 
-\##  Dashboard Preview
+##  Dataset Files
 
 
 
-!\[Dashboard Screenshot](Dashboard\_Screenshot.png)
+- orders.csv  
 
+- riders.csv  
 
+- hubs.csv  
 
+- customers.csv  
 
-
-\##  Key Insights
-
-
-
-\- Overall success rate is ~69%  
-
-\- Some hubs show consistently higher failure rates  
-
-\- Rider experience positively impacts success rate  
-
-\- Failure rates increase during specific months  
-
-\- A small group of riders significantly outperform others  
+- weather.csv  
 
 
 
 
 
-\##  Business Impact
+##  Dashboard Preview
+
+
+
+![Dashboard Screenshot](Dashboard\_Screenshot.png)
+
+
+
+
+
+##  Key Insights
+
+
+
+- Overall success rate is ~69%  
+
+- Some hubs show consistently higher failure rates  
+
+- Rider experience positively impacts success rate  
+
+- Failure rates increase during specific months  
+
+- A small group of riders significantly outperform others  
+
+
+
+
+
+##  Business Impact
 
 
 
@@ -186,25 +186,26 @@ This dashboard enables:
 
 
 
-\- Operational performance monitoring  
+- Operational performance monitoring  
 
-\- Hub-level decision making  
+- Hub-level decision making  
 
-\- Rider performance optimization  
+- Rider performance optimization  
 
-\- Data-backed logistics improvements  
-
-
+- Data-backed logistics improvements  
 
 
 
-\##  Author
+
+
+##  Author
 
 
 
 Narendra Damera  
 
 Data Analytics Project
+
 
 
 
